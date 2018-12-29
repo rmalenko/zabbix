@@ -1,4 +1,4 @@
-# Zabbix 4 checks for NVME S.M.A.R.T
+# Zabbix 4 Check NVMe Flash Health (S.M.A.R.T)
 SMART monitoring with nvme-cli (LLD,DI)
 
 Requirements:
