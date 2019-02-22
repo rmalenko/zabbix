@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
     <version>4.0</version>
-    <date>2018-12-29T17:06:36Z</date>
+    <date>2019-02-22T17:28:37Z</date>
     <groups>
         <group>
             <name>Templates</name>
@@ -1582,7 +1582,7 @@
                     </trigger_prototypes>
                     <graph_prototypes>
                         <graph_prototype>
-                            <name>S.M.A.R.T Data Units</name>
+                            <name>S.M.A.R.T Data Units Disk {#NVMECHK}</name>
                             <width>900</width>
                             <height>200</height>
                             <yaxismin>0.0000</yaxismin>
@@ -1626,7 +1626,7 @@
                             </graph_items>
                         </graph_prototype>
                         <graph_prototype>
-                            <name>S.M.A.R.T Host Read/Write Commands</name>
+                            <name>S.M.A.R.T Host Read/Write Commands Disk {#NVMECHK}</name>
                             <width>900</width>
                             <height>200</height>
                             <yaxismin>0.0000</yaxismin>
@@ -1670,7 +1670,7 @@
                             </graph_items>
                         </graph_prototype>
                         <graph_prototype>
-                            <name>S.M.A.R.T Percentage Used</name>
+                            <name>S.M.A.R.T Percentage Used Disk {#NVMECHK}</name>
                             <width>300</width>
                             <height>300</height>
                             <yaxismin>0.0000</yaxismin>
